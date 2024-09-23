@@ -96,11 +96,13 @@
             this.tb_hPort.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(158)))), ((int)(((byte)(200)))), ((int)(((byte)(185)))));
             this.tb_hPort.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.tb_hPort.Location = new System.Drawing.Point(67, 199);
+            this.tb_hPort.MaxLength = 5;
             this.tb_hPort.Name = "tb_hPort";
             this.tb_hPort.Size = new System.Drawing.Size(250, 26);
             this.tb_hPort.TabIndex = 13;
             this.tb_hPort.Text = "5003";
             this.tb_hPort.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.tb_hPort.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.tb_hPort_KeyPress);
             // 
             // label3
             // 

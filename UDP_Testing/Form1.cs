@@ -106,6 +106,15 @@ namespace UDP_Testing
         }
 
         private string[] sArray = new string[] { } ;
+
+        private void tb_hPort_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            if ((e.KeyChar < '0' || e.KeyChar > '9') && e.KeyChar != '\b')
+            {
+                e.Handled = true;
+            }
+        }
+
         private string filePath;
         private UDP_Connection udp;
     }
