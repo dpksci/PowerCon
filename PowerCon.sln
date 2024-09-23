@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PowerCon", "UDP_Testing\PowerCon.csproj", "{1221FA7E-C109-4E83-84B5-AF4DD2E41626}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "PowerCon_SetUp", "PowerCon_SetUp\PowerCon_SetUp.vdproj", "{AB41706D-A757-4D72-B934-8D6B077D421E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1221FA7E-C109-4E83-84B5-AF4DD2E41626}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1221FA7E-C109-4E83-84B5-AF4DD2E41626}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1221FA7E-C109-4E83-84B5-AF4DD2E41626}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1221FA7E-C109-4E83-84B5-AF4DD2E41626}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB41706D-A757-4D72-B934-8D6B077D421E}.Debug|Any CPU.ActiveCfg = Debug
+		{AB41706D-A757-4D72-B934-8D6B077D421E}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3EF3A24D-A193-40A0-BD1B-E0DF32F9AB4F}
+	EndGlobalSection
+EndGlobal

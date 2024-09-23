@@ -1,0 +1,30 @@
+D:\VERSIONS\July\23\IONOSONDE - Copy\UDP_Testing\bin\Debug\UDP_Testing.exe.config
+D:\VERSIONS\July\23\IONOSONDE - Copy\UDP_Testing\bin\Debug\UDP_Testing.exe
+D:\VERSIONS\July\23\IONOSONDE - Copy\UDP_Testing\bin\Debug\UDP_Testing.pdb
+D:\VERSIONS\July\23\IONOSONDE - Copy\UDP_Testing\obj\Debug\PowerRad.csproj.AssemblyReference.cache
+D:\VERSIONS\July\23\IONOSONDE - Copy\UDP_Testing\obj\Debug\UDP_Testing.Form1.resources
+D:\VERSIONS\July\23\IONOSONDE - Copy\UDP_Testing\obj\Debug\UDP_Testing.Properties.Resources.resources
+D:\VERSIONS\July\23\IONOSONDE - Copy\UDP_Testing\obj\Debug\PowerRad.csproj.GenerateResource.cache
+D:\VERSIONS\July\23\IONOSONDE - Copy\UDP_Testing\obj\Debug\PowerRad.csproj.CoreCompileInputs.cache
+D:\VERSIONS\July\23\IONOSONDE - Copy\UDP_Testing\obj\Debug\UDP_Testing.exe
+D:\VERSIONS\July\23\IONOSONDE - Copy\UDP_Testing\obj\Debug\UDP_Testing.pdb
+D:\DpkSingh\PowerCon\UDP_Testing\bin\Debug\UDP_Testing.exe.config
+D:\DpkSingh\PowerCon\UDP_Testing\bin\Debug\UDP_Testing.exe
+D:\DpkSingh\PowerCon\UDP_Testing\bin\Debug\UDP_Testing.pdb
+D:\DpkSingh\PowerCon\UDP_Testing\obj\Debug\PowerRad.csproj.AssemblyReference.cache
+D:\DpkSingh\PowerCon\UDP_Testing\obj\Debug\UDP_Testing.Form1.resources
+D:\DpkSingh\PowerCon\UDP_Testing\obj\Debug\UDP_Testing.Properties.Resources.resources
+D:\DpkSingh\PowerCon\UDP_Testing\obj\Debug\PowerRad.csproj.GenerateResource.cache
+D:\DpkSingh\PowerCon\UDP_Testing\obj\Debug\PowerRad.csproj.CoreCompileInputs.cache
+D:\DpkSingh\PowerCon\UDP_Testing\obj\Debug\UDP_Testing.exe
+D:\DpkSingh\PowerCon\UDP_Testing\obj\Debug\UDP_Testing.pdb
+D:\VERSIONS\July\23\PowerCon\UDP_Testing\bin\Debug\UDP_Testing.exe.config
+D:\VERSIONS\July\23\PowerCon\UDP_Testing\bin\Debug\UDP_Testing.exe
+D:\VERSIONS\July\23\PowerCon\UDP_Testing\bin\Debug\UDP_Testing.pdb
+D:\VERSIONS\July\23\PowerCon\UDP_Testing\obj\Debug\PowerRad.csproj.AssemblyReference.cache
+D:\VERSIONS\July\23\PowerCon\UDP_Testing\obj\Debug\UDP_Testing.Form1.resources
+D:\VERSIONS\July\23\PowerCon\UDP_Testing\obj\Debug\UDP_Testing.Properties.Resources.resources
+D:\VERSIONS\July\23\PowerCon\UDP_Testing\obj\Debug\PowerRad.csproj.GenerateResource.cache
+D:\VERSIONS\July\23\PowerCon\UDP_Testing\obj\Debug\PowerRad.csproj.CoreCompileInputs.cache
+D:\VERSIONS\July\23\PowerCon\UDP_Testing\obj\Debug\UDP_Testing.exe
+D:\VERSIONS\July\23\PowerCon\UDP_Testing\obj\Debug\UDP_Testing.pdb
